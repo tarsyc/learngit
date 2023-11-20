@@ -6,24 +6,15 @@
 `git commit`
 # 拷贝远程仓库
 `git clone`
-<<<<<<< HEAD
-
-
 # 切换到指定分支
 `git checkout [branch-name]`
 # 切换到上一个分支
 `git checkout -`
-=======
 # 新建一个分支
 `git branch [branch-name]`
-
-
-
-
 # 列出所有分支(本地、远程)
 `git branch   /-r/-a`
 # 新建分支并指定commmit
 `git branch [branch][commit]`
 # 合并指定分支到当前分支
 `git merge [branch]`
->>>>>>> newbranch
