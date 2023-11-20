@@ -6,3 +6,5 @@
 `git commit`
 # 拷贝远程仓库
 `git clone`
+# 新建一个分支
+`git branch [branch-name]`
