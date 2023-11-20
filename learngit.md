@@ -6,3 +6,7 @@
 `git commit`
 # 拷贝远程仓库
 `git clone`
+
+
+# 切换到指定分支
+`git checkout [branch-name]`
