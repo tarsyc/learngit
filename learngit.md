@@ -18,3 +18,5 @@
 `git branch [branch][commit]`
 # 合并指定分支到当前分支
 `git merge [branch]`
+# 创建一个tag在当前提交
+`git tag [commit]`
