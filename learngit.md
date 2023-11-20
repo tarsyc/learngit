@@ -8,3 +8,11 @@
 `git clone`
 # 新建一个分支
 `git branch [branch-name]`
+
+
+
+
+# 列出所有分支(本地、远程)
+`git branch   /-r/-a`
+# 新建分支并指定commmit
+`git branch [branch][commit]`
