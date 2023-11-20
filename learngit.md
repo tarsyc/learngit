@@ -28,3 +28,4 @@
 `git rebase main`将把 feature-branch 分支上的提交逐个应用到 main 分支上，使得 feature-branch 看起来像是在 main 分支上进行开发的一样
 # 交互式Rebase
 `git rebase -i HEAD~3`
+rebase可以改变提交历史
