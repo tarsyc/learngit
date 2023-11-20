@@ -22,3 +22,5 @@
 `git tag [commit]`
 # 上传到远程仓库
 `git push [远程主机名] [本地分支名]`
+# pull 获取远程代码合并本地
+`git pull`
