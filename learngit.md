@@ -20,3 +20,5 @@
 `git merge [branch]`
 # 创建一个tag在当前提交
 `git tag [commit]`
+# 上传到远程仓库
+`git push [远程主机名] [本地分支名]`
