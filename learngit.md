@@ -10,3 +10,5 @@
 
 # 切换到指定分支
 `git checkout [branch-name]`
+# 切换到上一个分支
+`git checkout -`
