@@ -16,3 +16,5 @@
 `git branch   /-r/-a`
 # 新建分支并指定commmit
 `git branch [branch][commit]`
+# 合并指定分支到当前分支
+`git merge [branch]`
